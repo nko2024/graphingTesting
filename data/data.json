@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Roads",
+    "value": 120,
+    "description": "Potholes, resurfacing, and signage issues."
+  },
+  {
+    "category": "Parks",
+    "value": 80,
+    "description": "Playgrounds, trees, and trail maintenance."
+  },
+  {
+    "category": "Water",
+    "value": 150,
+    "description": "Watermain breaks and service disruptions."
+  },
+  {
+    "category": "Transit",
+    "value": 95,
+    "description": "Bus delays and accessibility concerns."
+  },
+  {
+    "category": "Waste",
+    "value": 60,
+    "description": "Missed pickups and recycling issues."
+  }
+]
