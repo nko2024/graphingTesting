@@ -1,4 +1,4 @@
-/* const margin = { top: 20, right: 20, bottom: 40, left: 50 };
+const margin = { top: 20, right: 20, bottom: 40, left: 50 };
 const width = 700 - margin.left - margin.right;
 const height = 400 - margin.top - margin.bottom;
 
@@ -81,7 +81,9 @@ const tooltip = d3.select("body")
   })
   .catch(error => {
     console.error("DATA ERROR:", error);
-  }); */
+  });
+
+/*
 
 console.log("LOADING ARCGIS DATA");
 
@@ -167,3 +169,4 @@ d3.json("https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Horti
     .attr("y", d => y(d.value))
     .attr("height", d => height - y(d.value));
 }
+*/
